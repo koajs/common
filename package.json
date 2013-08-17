@@ -1,0 +1,22 @@
+{
+  "name": "koa-common",
+  "description": "Common middleware aggregate module for lazy people",
+  "repository": "koajs/common",
+  "version": "1.0.0",
+  "keywords": [
+    "koa",
+    "middleware"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "koa": "0.0.1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "koa-mount": "~1.0.0",
+    "koa-response-time": "~1.0.0",
+    "koa-logger": "~1.0.0"
+  }
+}
