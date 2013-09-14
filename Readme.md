@@ -20,6 +20,7 @@ $ npm install koa-common
   - favicon
   - rewrite
   - responseTime
+  - conditionalGet
 
 ## License
 
