@@ -18,6 +18,7 @@ $ npm install koa-common
   - etag
   - static
   - favicon
+  - rewrite
   - responseTime
 
 ## License
