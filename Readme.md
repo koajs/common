@@ -15,6 +15,9 @@ $ npm install koa-common
 
   - logger
   - mount
+  - etag
+  - static
+  - favicon
   - responseTime
 
 ## License
