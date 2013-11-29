@@ -1,6 +1,7 @@
 
 exports.conditionalGet = require('koa-conditional-get');
 exports.responseTime = require('koa-response-time');
+exports.compress = require('koa-compress');
 exports.rewrite = require('koa-rewrite');
 exports.favicon = require('koa-favicon');
 exports.static = require('koa-static');
