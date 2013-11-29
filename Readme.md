@@ -20,6 +20,7 @@ $ npm install koa-common
   - favicon
   - rewrite
   - compress
+  - ratelimit
   - responseTime
   - conditionalGet
 

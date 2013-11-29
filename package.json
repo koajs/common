@@ -23,6 +23,7 @@
     "koa-static": "~1.2.0",
     "koa-rewrite": "~1.0.0",
     "koa-conditional-get": "~1.0.0",
-    "koa-compress": "0.0.1"
+    "koa-compress": "0.0.1",
+    "koa-ratelimit": "~1.0.0"
   }
 }
