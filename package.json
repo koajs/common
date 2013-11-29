@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "koa-mount": "~1.1.0",
+    "koa-mount": "~1.2.0",
     "koa-response-time": "~1.0.0",
     "koa-logger": "~1.0.0",
     "koa-favicon": "~1.0.0",
