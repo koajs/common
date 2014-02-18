@@ -17,6 +17,7 @@ $ npm install koa-common
   - [etag](https://github.com/koajs/etag)
   - [static](https://github.com/koajs/static)
   - [favicon](https://github.com/koajs/favicon)
+  - [session](https://github.com/koajs/session)
   - [rewrite](https://github.com/koajs/rewrite)
   - [compress](https://github.com/koajs/compress)
   - [ratelimit](https://github.com/koajs/ratelimit)
