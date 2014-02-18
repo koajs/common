@@ -2,7 +2,7 @@
   "name": "koa-common",
   "description": "Common middleware aggregate module for lazy people",
   "repository": "koajs/common",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "keywords": [
     "koa",
     "middleware"
