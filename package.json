@@ -11,13 +11,13 @@
     "index.js"
   ],
   "devDependencies": {
-    "koa": "~0.3.0"
+    "koa": "~0.4.0"
   },
   "license": "MIT",
   "dependencies": {
     "koa-mount": "~1.2.2",
     "koa-response-time": "~1.0.1",
-    "koa-logger": "~1.1.0",
+    "koa-logger": "~1.2.0",
     "koa-favicon": "~1.0.1",
     "koa-etag": "~1.2.1",
     "koa-static": "~1.4.0",
