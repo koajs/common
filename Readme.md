@@ -8,6 +8,16 @@
 $ npm install koa-common
 ```
 
+## Example
+
+```js
+var koa = require('koa');
+var common = require('koa-common');
+
+var app = koa();
+app.use(common.logger());
+```
+
 ## Middleware
 
   Includes the following common middleware:
